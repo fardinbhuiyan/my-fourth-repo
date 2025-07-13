@@ -1,0 +1,14 @@
+div {
+    background-color: rgb(146, 255, 255);
+    margin: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    font-size: larger;
+    box-shadow: 10px 10px 10px;
+}
+
+.fardin {
+    text-align: center;
+    background-color: rgb(198, 255, 142);
+    padding: 20px;
+}
