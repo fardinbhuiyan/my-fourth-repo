@@ -12,3 +12,8 @@ div {
     background-color: rgb(198, 255, 142);
     padding: 20px;
 }
+
+img {
+    height: 120px;
+    border-width: 5px;
+}
